@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on - "NodeJS, Elixir, React, NextJs to build high-performance, SEO-optimized web applications, focusing on designing and implementing high-performance and scalable GraphQL APIs leveraging GraphQL and Microservices architecture".<br>
+I'm currently working on - "NodeJS, Elixir, React, NextJs to build high-performance, SEO-optimized web applications, focusing on designing and implementing high-performance and scalable APIs leveraging GraphQL, and Microservices architecture".<br>
 
 I'm looking to collaborate on - "AI/ML projects, projects that involve designing and implementing real-time data pipelines using technologies like Kafka, Elasticsearch, PostgreSQL, and PostGIS".<br>
 
