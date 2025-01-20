@@ -1,9 +1,9 @@
 # 💫 About Me:
 I'm currently working on - "NodeJS, Elixir, React, NextJs to build high-performance, SEO-optimized web applications, focusing on designing and implementing high-performance and scalable APIs leveraging GraphQL, and Microservices architecture".<br>
 
-I'm looking to collaborate on - "AI/ML projects, projects that involve designing and implementing real-time data pipelines using technologies like Kafka, Elasticsearch, PostgreSQL, and PostGIS".<br>
+I'm looking to collaborate on - "AI/ML Applications, projects that involve designing and implementing real-time data pipelines using technologies like Kafka, Elasticsearch, PostgreSQL, and PostGIS".<br>
 
-I'm currently - "learning Python, ML/AI, Go languages".<br>
+I'm currently - "learning  ML/AI, Python and Go languages".<br>
 
 Fun fact - "To be an coder, you have to have can-do mindset".
 
